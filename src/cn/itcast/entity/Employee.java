@@ -12,8 +12,8 @@ public class Employee {
 	private String eno;
 	private String username;
 	private String password;
-	
-	//�����Ĳ���
+	//员工实体类	
+	//ËùÊôµÄ²¿ÃÅ
 	private Department department;
 
 	public Integer getEid() {
